@@ -21,5 +21,6 @@
 	</properties>
 	<modules>
 		<module>common</module>
+		<module>starters</module>
 	</modules>
 </project>
